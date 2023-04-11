@@ -7,33 +7,33 @@
 
 2. 가상환경 만들기 <br>
 : 디렉토리가 생성된 후, 생성된 디렉토리로 이동  <br>
-: `cd  projectj01` <br>
+:  `cd  projectj01`
 <br>
 3. 폴더 확인 <br>
-:  `ls`
+: `ls`
 <br>
 4. 가상환경 이름을 venv로 지정 <br>
-: `python3 -m venv venv` <br>
+:  `python3 -m venv venv` 
 <br>
 5. 폴더 확인 <br>  
-:  `ls` <br>
+:   `ls` 
 <br>  
 6. venv 폴더로 이동 <br>
-:  `cd venv` <br>
+:   `cd venv` 
 <br>
 7. 폴더 확인 <br> 
-:  `ls` <br> 
+:   `ls`
 <br>
 8. 폴더 확인 후 나오는 결과 확인하기 <br> 
-: `vin/inclue/lib/pyvenv.cfg` <br> 
+:  `vin/inclue/lib/pyvenv.cfg` <br> 
 <br>
 9.  폴더 나오기 <br> 
-:  `cd ..` <br> 
+:   `cd ..` <br> 
 <br>
 10.  상위 폴더, 즉 project01로 이동 <br>
 <br>
 11. __가상환경 활성화__ <br> 
-: **`source venv/bin/activate`** <br> 
+:  **`source venv/bin/activate`** <br> 
 <br>
 12. 장고 설치 <br>
 13. 장고 웹 프레임워크 로드 <br>
