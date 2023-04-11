@@ -35,12 +35,21 @@
 11. __가상환경 활성화__ <br> 
 :  **`source venv/bin/activate`** <br> 
 <br>
-12. 장고 설치 <br>
+12. 장고 설치 <br>  
+: `pip install django`  
 13. 장고 웹 프레임워크 로드 <br>
+: `django-admin startproject myapi`  
 14. 폴더 확인 <br>
+: `ls`  
 15. 폴더 리스트 일치하는지 확인 <br>
+: `manage.py / venv / myapi`   
 16. 폴더 이동 <br>
-17. 폴더 확인 <br>
+: `cd myapi`  
+17. 폴더 확인 <br> 
+: `ls`  
 18. 폴더 리스트 일치하는지 확인 <br>
+: `__init__.py / asgi.py / setting.py / urls.py / wsgi.py`  
 19. 상위폴더로 이동 <br>
+: `cd ..`  
 20. 서버 구동 <br>
+: `python3 manage.py runserver`  
